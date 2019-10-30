@@ -1,0 +1,17 @@
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\bin\Debug\MathClasses.exe
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\bin\Debug\MathClasses.pdb
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\bin\Debug\MathClasses.exe.config
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\s199027\source\repos\C# Unit Test - Student Copy\UnitTestProject\obj\Debug\UnitTestProject.pdb

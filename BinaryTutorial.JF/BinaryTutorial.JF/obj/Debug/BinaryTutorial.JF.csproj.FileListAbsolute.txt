@@ -1,0 +1,7 @@
+C:\Users\s199027\source\repos\BinaryTutorial.JF\BinaryTutorial.JF\bin\Debug\BinaryTutorial.JF.exe.config
+C:\Users\s199027\source\repos\BinaryTutorial.JF\BinaryTutorial.JF\bin\Debug\BinaryTutorial.JF.exe
+C:\Users\s199027\source\repos\BinaryTutorial.JF\BinaryTutorial.JF\bin\Debug\BinaryTutorial.JF.pdb
+C:\Users\s199027\source\repos\BinaryTutorial.JF\BinaryTutorial.JF\obj\Debug\BinaryTutorial.JF.csprojAssemblyReference.cache
+C:\Users\s199027\source\repos\BinaryTutorial.JF\BinaryTutorial.JF\obj\Debug\BinaryTutorial.JF.csproj.CoreCompileInputs.cache
+C:\Users\s199027\source\repos\BinaryTutorial.JF\BinaryTutorial.JF\obj\Debug\BinaryTutorial.JF.exe
+C:\Users\s199027\source\repos\BinaryTutorial.JF\BinaryTutorial.JF\obj\Debug\BinaryTutorial.JF.pdb
